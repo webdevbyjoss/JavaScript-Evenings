@@ -59,7 +59,7 @@ While preparing your materials for event please look into these values:
 ## Schedule
 
 We decided to have a meeting once per month.
-Next meeting is planned for **20 Dec 2012**
+Next meeting is planned for **26 March 2013**
 
 ## Events archive
 
