@@ -1,9 +1,25 @@
-JavaScript & FrontEnd Evenings
+JavaScript Evenings
 ==============================
 
 Discussion club with regular knowledge sharing meetings for people interested in JavaScript &amp; Front-end
 
+## For speakers
+
+We have 2 majors for each meeting, who will highlight particular topics, thus starting the discussion.
+
+While preparing your materials for event please look into these values:
+* presentation slides - suck, **live demos in browser - rock!**
+* boring talk for more than 15 minutes - suck, **discussions, knowledge sharing and fun - rock!**
+* "huge" experience in X - suck, **hacking with everything and digging into something new - rock!**
+
+## Schedule
+
+It was descided to have a meeting once per month.
+Next meeting is planned for **23 May 2013**
+
 ## Topics
+
+Feel free to add new topics to this list and/or participate as speaker.
 
 * grunt
 * RivetsJS
@@ -43,27 +59,20 @@ Discussion club with regular knowledge sharing meetings for people interested in
 * Jasmine, behaviour driven testing framework *by Roman Ermakov, 22 November*
 * File API *by Aleksandr Sabov, 25 October*
 
-Please signup here if you are willing to participate as speaker, and feel free to add more topics.
-
-## For speakers
-
-2 people are needed as majors for each next meeting, who will highlight some particular topics in a little bit more details.
-
-While preparing your materials for event please look into these values:
-
-* presentation slides - suck, **live demos in browser - rock!**
-* boring talk for more than 15 minutes - suck, **discussions, knowledge sharing and fun - rock!**
-* "huge" experience in X - suck, **hacking with everything and digging into something new - rock!**
-
-
-## Schedule
-
-We decided to have a meeting once per month.
-Next meeting is planned for **26 March 2013**
 
 ## Events archive
 
 links to materials comming soon...
+
+23 May 2013
+
+2 April 2013
+
+5 March 2013
+
+24 January 2013
+
+20 December 2012
 
 22 November 2012
 
